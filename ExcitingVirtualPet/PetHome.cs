@@ -25,7 +25,7 @@ namespace ExcitingVirtualPet
         const int MIN_BOREDOM = 0;
 
         //Resource Constants
-        //Moved to State.cs
+        //Moved to Pet.cs
         const int MAX_FOOD = 10;
         const int MIN_FOOD = 0;
         const int MAX_WATER = 10;

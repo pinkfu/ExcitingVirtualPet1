@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace ExcitingVirtualPet
 {
-    class Bird
+    class Bird : Pet
     {
+        public Bird()
+        {
+
+        }
     }
 }
